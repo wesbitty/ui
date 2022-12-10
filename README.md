@@ -10,8 +10,11 @@
 ## <p align="center">✨ Wesbitty UI</p>
 
 <p align="center">
+
+[![](https://badgen.net/npm/v/@wesbitty/ui)](https://www.npmjs.com/packages/@wesbitty/ui)
+
   <a href="https://github.com/wesbitty/ui/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/wesbitty/ui.svg" alt="License" />
+    <img src="https://img.shields.io/github/license/wesbitty/badge.svg" alt="License" />
   </a>
   <br/>
 
