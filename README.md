@@ -8,19 +8,9 @@
 </p>
 
 ## <p align="center">✨ Wesbitty UI</p>
-
-<p align="center">
-
-[![](https://badgen.net/npm/v/@wesbitty/ui)](https://www.npmjs.com/packages/@wesbitty/ui)
-
-  <a href="https://github.com/wesbitty/ui/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/wesbitty/badge.svg" alt="License" />
-  </a>
-  <br/>
-
-  <a href="https://discord.gg/wesbitty">
-    <img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" />
-  </a>
+<p align="center"> 
+<a href="https://github.com/wesbitty/ui/blob/main/LICENSE"><img src="https://img.shields.io/github/license/wesbitty/badge.svg" alt="License" /></a>
+<a href="https://discord.gg/wesbitty"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
   <a href="https://wesbitty.com/community/">
     <img src="https://img.shields.io/badge/community-join-4BC424.svg" alt="Wesbitty Community" />
   </a>
